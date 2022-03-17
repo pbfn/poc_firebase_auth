@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">poc_firebase_auth</string>
+    <string name="defult_web_client_id">730879797264-q8dftpobnsr8p1a55gjmcbqquuf9cblr.apps.googleusercontent.com</string>
+
 </resources>
